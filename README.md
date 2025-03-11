@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- contect ajpatidar481@gmail.com
+- contact ajpatidar481@gmail.com
 
 <!---
 A1j2a/A1j2a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
